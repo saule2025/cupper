@@ -3,7 +3,7 @@ from django.contrib import admin
 # Register your models here.
 from .models import Category, Catalog, Review, Question , News 
 
-# Добавление модели на главную страницу интерфейса администратора
+# Р”РѕР±Р°РІР»РµРЅРёРµ РјРѕРґРµР»Рё РЅР° РіР»Р°РІРЅСѓСЋ СЃС‚СЂР°РЅРёС†Сѓ РёРЅС‚РµСЂС„РµР№СЃР° Р°РґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂР°
 admin.site.register(Category)
 admin.site.register(Catalog)
 admin.site.register(Review)
