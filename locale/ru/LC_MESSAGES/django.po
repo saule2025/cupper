@@ -1,0 +1,353 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-03 09:39+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%"
+"100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: .\templates\base.html:44
+msgid "Home"
+msgstr "Главная"
+
+#: .\templates\base.html:46 .\templates\info\about.html:4
+msgid "about"
+msgstr "О нас"
+
+#: .\templates\base.html:49 .\templates\catalog\create.html:6
+#: .\templates\catalog\edit.html:6 .\templates\question\index.html:14
+#: .\templates\question\list.html:14 .\templates\review\index.html:14
+#: .\templates\review\list.html:14
+msgid "catalog"
+msgstr "Каталог товаров"
+
+#: .\templates\base.html:52 .\templates\base.html:87
+#: .\templates\news\index.html:3 .\templates\news\index.html:6
+#: .\templates\news\list.html:4 .\templates\news\list.html:8
+msgid "newss"
+msgstr "Новости"
+
+#: .\templates\base.html:56 .\templates\base.html:84
+#: .\templates\catalog\details.html:108 .\templates\review\index.html:4
+#: .\templates\review\index.html:7 .\templates\review\list.html:4
+#: .\templates\review\list.html:7
+msgid "reviews"
+msgstr "Отзывы"
+
+#: .\templates\base.html:59 .\templates\base.html:85
+#: .\templates\catalog\details.html:135 .\templates\question\index.html:4
+#: .\templates\question\index.html:7 .\templates\question\list.html:4
+#: .\templates\question\list.html:7
+msgid "questions"
+msgstr "Вопросы и ответы"
+
+#: .\templates\base.html:63 .\templates\index.html:21
+#: .\templates\info\payment.html:4
+msgid "payment"
+msgstr "Оплата и Доставка"
+
+#: .\templates\base.html:66 .\templates\index.html:24
+#: .\templates\info\technology.html:4
+msgid "technology"
+msgstr "Технология CUPPER"
+
+#: .\templates\base.html:69 .\templates\index.html:27
+#: .\templates\info\discount.html:4
+msgid "discount"
+msgstr "Акции и скидки"
+
+#: .\templates\base.html:72
+msgid "contacts"
+msgstr "Контакты"
+
+#: .\templates\base.html:81 .\templates\category\index.html:6
+msgid "categorys"
+msgstr "Категории товара"
+
+#: .\templates\base.html:82 .\templates\catalog\index.html:4
+#: .\templates\catalog\index.html:8
+msgid "catalogs"
+msgstr "Каталог товара"
+
+#: .\templates\base.html:92
+msgid "My account"
+msgstr "Моя учетная запись"
+
+#: .\templates\base.html:93
+msgid "Change password"
+msgstr "Сменить пароль"
+
+#: .\templates\base.html:95
+msgid "Log out"
+msgstr "Выйти"
+
+#: .\templates\base.html:100
+msgid "Log In"
+msgstr "Войти"
+
+#: .\templates\base.html:101
+msgid "Sign up"
+msgstr "Зарегистрироваться"
+
+#: .\templates\catalog\create.html:3 .\templates\catalog\index.html:9
+#: .\templates\category\create.html:3 .\templates\category\index.html:7
+#: .\templates\news\index.html:7 .\templates\question\create.html:4
+#: .\templates\review\create.html:4
+msgid "Add"
+msgstr "Добавить"
+
+#: .\templates\catalog\create.html:18 .\templates\catalog\edit.html:18
+#: .\templates\category\create.html:17 .\templates\category\edit.html:17
+#: .\templates\news\create.html:18 .\templates\news\edit.html:18
+#: .\templates\question\create.html:104 .\templates\question\edit.html:106
+#: .\templates\review\create.html:104
+msgid "Save"
+msgstr "Сохранить"
+
+#: .\templates\catalog\create.html:19 .\templates\catalog\details.html:103
+#: .\templates\catalog\edit.html:19 .\templates\catalog\edit.html:20
+#: .\templates\catalog\read.html:103 .\templates\category\create.html:18
+#: .\templates\category\edit.html:18 .\templates\category\read.html:18
+#: .\templates\news\create.html:19 .\templates\news\edit.html:19
+#: .\templates\news\read.html:45 .\templates\question\create.html:105
+#: .\templates\question\create.html:106 .\templates\question\edit.html:107
+#: .\templates\question\read.html:27 .\templates\review\create.html:107
+msgid "Back"
+msgstr "Назад"
+
+#: .\templates\catalog\details.html:4 .\templates\catalog\list.html:180
+msgid "Catalog details"
+msgstr "Описание товара"
+
+#: .\templates\catalog\details.html:114 .\templates\review\index.html:15
+#: .\templates\review\list.html:15 .\website\models.py:95
+msgid "rating"
+msgstr "Оценка"
+
+#: .\templates\catalog\details.html:129
+msgid "No reviews yet"
+msgstr "Пока нет отзывов"
+
+#: .\templates\catalog\details.html:155
+msgid "No questions yet"
+msgstr "Пока нет вопросов"
+
+#: .\templates\catalog\edit.html:3 .\templates\catalog\index.html:36
+#: .\templates\category\edit.html:3 .\templates\category\index.html:24
+#: .\templates\news\edit.html:3 .\templates\news\index.html:29
+#: .\templates\question\edit.html:4 .\templates\question\index.html:36
+msgid "Change"
+msgstr "Изменить"
+
+#: .\templates\catalog\index.html:16
+msgid "catalog_category"
+msgstr "Категория"
+
+#: .\templates\catalog\index.html:17 .\website\models.py:49
+#: .\website\models.py:71
+msgid "catalog_title"
+msgstr "Название товара"
+
+#: .\templates\catalog\index.html:18 .\templates\catalog\list.html:62
+#: .\templates\catalog\list.html:64
+msgid "price"
+msgstr "Цена"
+
+#: .\templates\catalog\index.html:37 .\templates\catalog\read.html:4
+#: .\templates\category\index.html:25 .\templates\category\read.html:3
+#: .\templates\news\index.html:30 .\templates\news\read.html:4
+#: .\templates\question\index.html:37 .\templates\question\read.html:3
+msgid "View"
+msgstr "Просмотреть"
+
+#: .\templates\catalog\index.html:38 .\templates\category\index.html:26
+#: .\templates\news\index.html:31 .\templates\question\index.html:38
+#: .\templates\review\index.html:35
+msgid "Delete"
+msgstr "Удалить"
+
+#: .\templates\catalog\list.html:4 .\templates\catalog\list.html:7
+msgid "Catalog list"
+msgstr "Каталог товаров"
+
+#: .\templates\catalog\list.html:14 .\templates\news\list.html:14
+msgid "Search"
+msgstr "Поиск"
+
+#: .\templates\catalog\list.html:20 .\templates\catalog\list.html:52
+#: .\templates\catalog\list.html:54 .\templates\category\create.html:5
+#: .\templates\category\edit.html:5 .\templates\category\read.html:5
+#: .\website\forms.py:41
+msgid "category"
+msgstr "Категория"
+
+#: .\templates\catalog\list.html:37 .\templates\catalog\list.html:57
+#: .\templates\catalog\list.html:59
+msgid "title"
+msgstr "Название"
+
+#: .\templates\catalog\list.html:47
+msgid "Sort"
+msgstr "Сортировка"
+
+#: .\templates\catalog\list.html:73
+msgid "desc"
+msgstr "по убыванию"
+
+#: .\templates\catalog\list.html:80
+msgid "Go"
+msgstr "Выполнить"
+
+#: .\templates\catalog\list.html:81 .\templates\news\list.html:15
+msgid "Reset"
+msgstr "Сброс"
+
+#: .\templates\catalog\list.html:185
+msgid "Ask"
+msgstr "Задать вопрос"
+
+#: .\templates\catalog\list.html:186
+msgid "review_create"
+msgstr "Добавить отзыв"
+
+#: .\templates\category\index.html:3
+msgid "List"
+msgstr "Список"
+
+#: .\templates\category\index.html:14 .\website\models.py:37
+#: .\website\models.py:70
+msgid "category_title"
+msgstr "Название категории"
+
+#: .\templates\contact.html:7
+msgid "Contacts"
+msgstr "Контакты"
+
+#: .\templates\index.html:4 .\templates\registration\logged_out.html:4
+#: .\templates\registration\login.html:4
+#: .\templates\registration\password_change_done.html:3
+#: .\templates\registration\password_change_form.html:3
+#: .\templates\registration\password_reset_complete.html:4
+#: .\templates\registration\password_reset_confirm.html:4
+#: .\templates\registration\password_reset_done.html:4
+#: .\templates\registration\password_reset_form.html:4
+#: .\templates\registration\register_done.html:4
+msgid "App Name"
+msgstr "Cupper"
+
+#: .\templates\index.html:15
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+#: .\templates\index.html:49
+msgid "Full Catalog"
+msgstr "Весь каталог"
+
+#: .\templates\index.html:135
+msgid "Avg Rating"
+msgstr "Средняя оценка"
+
+#: .\templates\news\create.html:3
+msgid "Create"
+msgstr "СОздать"
+
+#: .\templates\news\create.html:6 .\templates\news\edit.html:6
+#: .\templates\news\read.html:7
+msgid "news"
+msgstr "Новость"
+
+#: .\templates\news\index.html:13 .\website\models.py:128
+msgid "daten"
+msgstr "Дата"
+
+#: .\templates\news\index.html:14 .\website\models.py:129
+msgid "news_title"
+msgstr "Заголовок"
+
+#: .\templates\question\create.html:7 .\templates\question\edit.html:6
+#: .\templates\question\edit.html:101 .\templates\question\index.html:15
+#: .\templates\question\list.html:15 .\templates\question\read.html:5
+#: .\website\models.py:113
+msgid "question"
+msgstr "Вопрос"
+
+#: .\templates\question\index.html:13 .\templates\question\list.html:13
+#: .\website\models.py:110
+msgid "date_question"
+msgstr "Дата"
+
+#: .\templates\question\index.html:13 .\templates\review\index.html:13
+msgid "name"
+msgstr "Клиент"
+
+#: .\templates\question\index.html:16 .\templates\question\list.html:16
+#: .\website\models.py:114
+msgid "answer"
+msgstr "Ответ"
+
+#: .\templates\review\create.html:7
+msgid "review"
+msgstr "Отзыв"
+
+#: .\templates\review\index.html:13 .\templates\review\list.html:13
+#: .\website\models.py:92
+msgid "date_review"
+msgstr "Дата"
+
+#: .\templates\review\index.html:16 .\templates\review\list.html:16
+#: .\website\models.py:96
+msgid "review_details"
+msgstr "Текст отзыва"
+
+#: .\website\forms.py:49
+msgid "Price must be greater than zero"
+msgstr "Цена должна быть больше нуля"
+
+#: .\website\forms.py:96
+msgid "Wrong date and time format"
+msgstr "Неправильный формат даты и времени"
+
+#: .\website\models.py:50 .\website\models.py:72
+msgid "catalog_details"
+msgstr "Описание товара"
+
+#: .\website\models.py:51 .\website\models.py:73
+msgid "catalog_price"
+msgstr "Цена"
+
+#: .\website\models.py:52
+msgid "catalog_photo"
+msgstr "Фотография"
+
+#: .\website\models.py:69
+msgid "category_id"
+msgstr "category_id"
+
+#: .\website\models.py:74
+msgid "photo"
+msgstr "Фотография"
+
+#: .\website\models.py:75
+msgid "avg_rating"
+msgstr "Средняя оценка"
+
+#: .\website\models.py:130
+msgid "news_details"
+msgstr "Детали новости"
+
+#: .\website\models.py:131
+msgid "news_photo"
+msgstr "Фотография"
