@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-s+qy(2%im18dd9_%(s6hih^(!p(qc*2zwan1%8itk7wfgbyht6
 DEBUG = False
 #DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'cupper-website.onrender.com',]
+ALLOWED_HOSTS = ['127.0.0.1', 'cupper-website-e6of.onrender.com',]
 
 # Application definition
 
